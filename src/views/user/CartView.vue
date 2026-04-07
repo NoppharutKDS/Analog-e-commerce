@@ -51,7 +51,6 @@ const changeQuality = (event, index) => {
                         </div>
                     </div>
                 </div>
-                <div><b>In Stock</b></div>
             </div>
             <div class="flex-auto w-32 p-4 bg-slate-600">
                 <h2 class="text-2xl"><b>Order summary</b></h2>

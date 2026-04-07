@@ -30,9 +30,9 @@ const addToCart = (productData) => {
             </div>
         </div>
     </div>
-    <Product 
-    :products="userProductStore.list"
-    :addToCart="addToCart">
+       <Product 
+        :products="userProductStore.list"
+        :addToCart="addToCart">
     </Product>
     </UserLayout>
 </template>
